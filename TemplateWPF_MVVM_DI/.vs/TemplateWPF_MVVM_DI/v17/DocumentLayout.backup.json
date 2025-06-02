@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CA18E1-95D2-4083-8E9A-E2EB49FB19C7}|TemplateWPF_MVVM_DI.csproj|d:\\hospital-t\u0111-ub\\template_wpf_mvvm_di\\templatewpf_mvvm_di\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3CA18E1-95D2-4083-8E9A-E2EB49FB19C7}|TemplateWPF_MVVM_DI.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CA18E1-95D2-4083-8E9A-E2EB49FB19C7}|TemplateWPF_MVVM_DI.csproj|d:\\hospital-t\u0111-ub\\template_wpf_mvvm_di\\templatewpf_mvvm_di\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CA18E1-95D2-4083-8E9A-E2EB49FB19C7}|TemplateWPF_MVVM_DI.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
+              "ToolTip": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:23:08.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:22:32.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
