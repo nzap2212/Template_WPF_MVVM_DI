@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemplateWPF_MVVM_DI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1f8feb09c4d2a544d41c4db25b0c70a0c0530cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7fd3b7dbc5b5e0fb9ac33b99c14a933620b804f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemplateWPF_MVVM_DI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemplateWPF_MVVM_DI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

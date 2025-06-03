@@ -13,6 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Image", "Image", "{1CA0B91C
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "App Installer", "..\App Installer\App Installer.vdproj", "{E00C5795-DA1F-4C48-76DD-41DE7EE76106}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Rename-Solution.ps1 = Rename-Solution.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
