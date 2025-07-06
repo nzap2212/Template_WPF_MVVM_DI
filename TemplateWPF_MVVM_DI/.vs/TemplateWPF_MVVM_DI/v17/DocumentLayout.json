@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\Rename-Solution.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Rename-Solution.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,28 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rename-Solution.ps1",
-              "DocumentMoniker": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\Rename-Solution.ps1",
-              "RelativeDocumentMoniker": "Rename-Solution.ps1",
-              "ToolTip": "D:\\Hospital-T\u0110-UB\\Template_WPF_MVVM_DI\\TemplateWPF_MVVM_DI\\Rename-Solution.ps1",
-              "RelativeToolTip": "Rename-Solution.ps1",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-03T01:47:48.607Z",
-              "EditorCaption": ""
             }
           ]
         }
